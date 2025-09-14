@@ -30,6 +30,6 @@ flutter:
   fonts:
     - family: SF Pro Text
       fonts:
-        - asset: fonts/sf-pro-reg.otf
+        - asset: assets/fonts/sf-pro-reg.otf
           weight: 400
   
